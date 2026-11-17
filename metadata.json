@@ -1,0 +1,6 @@
+{
+  "name": "GIVENCHY Parfums — India Royal Editions",
+  "description": "An Indian haute parfumerie showcase for Givenchy Parfums blending Jaipur palace architecture, Kannauj botanicals, and interactive media curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
